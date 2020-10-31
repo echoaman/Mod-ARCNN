@@ -1,0 +1,6 @@
+.vscode/
+compressed_data/
+data/
+compressed/
+resized_data/
+*.mp4
